@@ -23,7 +23,7 @@ const greeting = {
   username: "FoxxMD",
   title: "Hello! I'm Matt Foxx",
   subTitle: emoji(
-    "A Full Stack Web Developer based in Atlanta, Georgia. When I'm not tinkering with my homelab you can find my cycling, bouldering, and hiking in Appalachia ⛰️"
+    "A Full Stack Web Developer based in Atlanta, Georgia. When I'm not tinkering with my homelab you can find me cycling, bouldering, and hiking in Appalachia ⛰️"
   ),
   resumeLink: "", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
